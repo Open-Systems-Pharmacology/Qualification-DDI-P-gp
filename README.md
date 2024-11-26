@@ -1,4 +1,4 @@
-# COMPOUND-Model
+# Qualification-DDI-P-gp
 **_tbd._**
 
 ## Repository files
