@@ -580,7 +580,7 @@
                         "ObservedData": "Kurata 2002 - G/T2677C/T3435_Digoxin day 16 + Clarithromycin - Digoxin - IV - 0.25 mg - serum - agg. (n=5)",
                         "StartTime": 120,
                         "TimeUnit": "h",
-                        "Color": "#c54a4a",
+                        "Color": "#009900",
                         "Caption": "Treatment (with Clarithromycin)",
                         "Symbol": "Triangle"
                     },
@@ -602,7 +602,7 @@
                         "ObservedData": "Kurata 2002 - T/T2677T/T3435_Digoxin day 16 + Clarithromycin - Digoxin - IV - 0.25 mg - serum - agg. (n=5)",
                         "StartTime": 120,
                         "TimeUnit": "h",
-                        "Color": "#d6706b",
+                        "Color": "#000000",
                         "Caption": "Treatment (with Clarithromycin)",
                         "Symbol": "Diamond"
                     }
@@ -621,7 +621,7 @@
                         "ObservedData": "Kurata 2002 - T/T2677T/T3435_Digoxin day 16 + Clarithromycin - Digoxin - PO - 0.25 mg - serum - agg. (n=5)",
                         "StartTime": 120,
                         "TimeUnit": "h",
-                        "Color": "#d6706b",
+                        "Color": "#000000",
                         "Caption": "Treatment (with Clarithromycin)",
                         "Symbol": "Diamond"
                     },
@@ -632,7 +632,7 @@
                         "ObservedData": "Kurata 2002 - G/T2677C/T3435_Digoxin day 16 + Clarithromycin - Digoxin - PO - 0.25 mg - serum - agg. (n=5)",
                         "StartTime": 120,
                         "TimeUnit": "h",
-                        "Color": "#c54a4a",
+                        "Color": "#009900",
                         "Caption": "Treatment (with Clarithromycin)",
                         "Symbol": "Triangle"
                     },
@@ -657,17 +657,6 @@
                 "OutputMappings": [
                     {
                         "Project": "Erythromycin-Digoxin-DDI",
-                        "Simulation": "Tsutsumi2002_TreatmentPhase",
-                        "Output": "Organism|PeripheralVenousBlood|Digoxin|Plasma (Peripheral Venous Blood)",
-                        "ObservedData": "Tsutsumi 2002 - 0.5mg iv with erythromycin - Digoxin - IV - 0.5 mg - Plasma - agg. (n=9)",
-                        "StartTime": 24,
-                        "TimeUnit": "h",
-                        "Color": "#b2182b",
-                        "Caption": "Treatment (with Erythromycin)",
-                        "Symbol": "Square"
-                    },
-                    {
-                        "Project": "Erythromycin-Digoxin-DDI",
                         "Simulation": "Tsutsumi2002_ControlPhase",
                         "Output": "Organism|PeripheralVenousBlood|Digoxin|Plasma (Peripheral Venous Blood)",
                         "ObservedData": "Tsutsumi 2002 - 0.5mg iv - Digoxin - IV - 0.5 mg - Plasma - agg. (n=9)",
@@ -676,6 +665,17 @@
                         "Color": "#2166ac",
                         "Caption": "Control (without Erythromycin)",
                         "Symbol": "Circle"
+                    },
+                    {
+                        "Project": "Erythromycin-Digoxin-DDI",
+                        "Simulation": "Tsutsumi2002_TreatmentPhase",
+                        "Output": "Organism|PeripheralVenousBlood|Digoxin|Plasma (Peripheral Venous Blood)",
+                        "ObservedData": "Tsutsumi 2002 - 0.5mg iv with erythromycin - Digoxin - IV - 0.5 mg - Plasma - agg. (n=9)",
+                        "StartTime": 24,
+                        "TimeUnit": "h",
+                        "Color": "#b2182b",
+                        "Caption": "Treatment (with Erythromycin)",
+                        "Symbol": "Square"
                     }
                 ]
             },
@@ -932,7 +932,7 @@
                         "ObservedData": "Belz et al. 1983 - Digoxin control to 120mg Verapamil - Digoxin - PO - 0.125 mg - Plasma - agg. (n=12)",
                         "StartTime": 312,
                         "TimeUnit": "h",
-                        "Color": "#c54a4a",
+                        "Color": "#009900",
                         "Caption": "Control (without verapamil)",
                         "Symbol": "Circle"
                     },
@@ -943,7 +943,7 @@
                         "ObservedData": "Belz et al. 1983 - Digoxin + 120mg Verapamil - Digoxin - PO - 0.125 mg - Plasma - agg. (n=12)",
                         "StartTime": 312,
                         "TimeUnit": "h",
-                        "Color": "#d6706b",
+                        "Color": "#000000",
                         "Caption": "Digoxin + Verapamil",
                         "Symbol": "Square"
                     }
@@ -973,7 +973,7 @@
                         "ObservedData": "Doering et al. 1983 - Digoxin control - Digoxin - PO - 0.125 mg - Serum - agg. (n=9)",
                         "StartTime": 312,
                         "TimeUnit": "h",
-                        "Color": "#c54a4a",
+                        "Color": "#009900",
                         "Caption": "Control (without verapamil) - second week",
                         "Symbol": "Circle"
                     },
@@ -995,7 +995,7 @@
                         "ObservedData": "Doering et al. 1983 - Digoxin+ 80mg Verapamil - Digoxin - PO - 0.125 mg - Serum - agg. (n=9)",
                         "StartTime": 312,
                         "TimeUnit": "h",
-                        "Color": "#d6706b",
+                        "Color": "#000000",
                         "Caption": "Digoxin + Verapamil - second week",
                         "Symbol": "Square"
                     }
@@ -1388,7 +1388,7 @@
                         "ObservedData": "Reitman 2011 - Week 1 after Perpetrator (Rifampicin) - Digoxin - PO - 0.5 mg - Plasma - agg. (n=11)",
                         "StartTime": 817,
                         "TimeUnit": "h",
-                        "Color": "#c54a4a",
+                        "Color": "#009900",
                         "Caption": "Digoxin Week 1 ",
                         "Symbol": "Triangle"
                     },
