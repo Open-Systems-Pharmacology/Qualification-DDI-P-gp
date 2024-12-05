@@ -10,4 +10,4 @@ jobs:
   Validate-Qualification-Plan:
     uses: Open-Systems-Pharmacology/Workflows/.github/workflows/ValidateQualificationPlan.yml@main
     with:
-      qualification-plan: 'Qualification/Input/qualification_plan.json'
+      qualification-plan: 'Qualification/input/qualification_plan.json'
