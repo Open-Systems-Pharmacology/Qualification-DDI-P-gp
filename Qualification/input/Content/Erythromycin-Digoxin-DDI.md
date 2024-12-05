@@ -4,4 +4,4 @@ The erythromycin-digoxin interaction was evaluated using one clinical DDI study 
 
 | DataID | Transporter | Perpetrator / victim   | Study design                                                                                                                                                                                                                        | Clinical study           |
 | ------ | ----------- | ---------------------- | -------------------------------------------------------------------------------------------------------------------------- | ------------------------------ |
-| 3028   | P-gp        | Erythromycin / digoxin | Erythromycin: 200 mg po QID for 5 days<br />Digoxin: 0.5 mg iv, concomittantly with erythromycin on the 2<sup>nd</sup> day | [Tsutsumi 2002](#references) |
+| 3028   | P-gp        | Erythromycin / digoxin | Erythromycin: 200 mg po QID for 5 days<br />Digoxin: 0.5 mg iv, concomitantly with erythromycin on the 2<sup>nd</sup> day | [Tsutsumi 2002](#references) |
