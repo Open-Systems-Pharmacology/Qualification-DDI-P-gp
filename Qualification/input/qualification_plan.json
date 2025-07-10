@@ -1,5 +1,5 @@
 {
-    "$schema": "https://raw.githubusercontent.com/Open-Systems-Pharmacology/QualificationPlan/v3.1/schemas/OSP_Qualification_Plan_Schema.json",
+    "$schema": "https://raw.githubusercontent.com/Open-Systems-Pharmacology/QualificationPlan/v3.3/schemas/OSP_Qualification_Plan_Schema.json",
     "Projects": [
         {
             "Id": "Verapamil",
@@ -49,7 +49,6 @@
                     "Name": "Clarithromycin",
                     "Project": "Clarithromycin"
                 }
-
             ]
         },
         {
@@ -70,7 +69,7 @@
                     "Type": "Formulation",
                     "Name": "Erythromycin_Weibull_filmtablet",
                     "Project": "Erythromycin"
-                }  
+                }
             ]
         },
         {
@@ -179,9 +178,6 @@
                     "Name": "Oral solution",
                     "Project": "Rifampicin"
                 }
-
-
-                
             ]
         }
     ],
@@ -1492,14 +1488,12 @@
                                     "Project": "Clarithromycin-Digoxin-DDI",
                                     "Simulation": "Tsutsumi2002_Control",
                                     "StartTime": 0,
-                                    "EndTime": "Inf",
                                     "TimeUnit": "h"
                                 },
                                 "SimulationDDI": {
                                     "Project": "Clarithromycin-Digoxin-DDI",
                                     "Simulation": "Tsutsumi2002_Treatment",
                                     "StartTime": 24,
-                                    "EndTime": "Inf",
                                     "TimeUnit": "h"
                                 }
                             },
@@ -1511,14 +1505,12 @@
                                     "Project": "Clarithromycin-Digoxin-DDI",
                                     "Simulation": "Kurata2002_Control_IV",
                                     "StartTime": 0,
-                                    "EndTime": "Inf",
                                     "TimeUnit": "h"
                                 },
                                 "SimulationDDI": {
                                     "Project": "Clarithromycin-Digoxin-DDI",
                                     "Simulation": "Kurata2002_Treatment_IV",
                                     "StartTime": 120,
-                                    "EndTime": "Inf",
                                     "TimeUnit": "h"
                                 }
                             },
@@ -1530,14 +1522,12 @@
                                     "Project": "Clarithromycin-Digoxin-DDI",
                                     "Simulation": "Kurata2002_Control_IV",
                                     "StartTime": 0,
-                                    "EndTime": "Inf",
                                     "TimeUnit": "h"
                                 },
                                 "SimulationDDI": {
                                     "Project": "Clarithromycin-Digoxin-DDI",
                                     "Simulation": "Kurata2002_Treatment_IV",
                                     "StartTime": 120,
-                                    "EndTime": "Inf",
                                     "TimeUnit": "h"
                                 }
                             },
@@ -1549,14 +1539,12 @@
                                     "Project": "Clarithromycin-Digoxin-DDI",
                                     "Simulation": "Kurata2002_Control_IV",
                                     "StartTime": 0,
-                                    "EndTime": "Inf",
                                     "TimeUnit": "h"
                                 },
                                 "SimulationDDI": {
                                     "Project": "Clarithromycin-Digoxin-DDI",
                                     "Simulation": "Kurata2002_Treatment_IV",
                                     "StartTime": 120,
-                                    "EndTime": "Inf",
                                     "TimeUnit": "h"
                                 }
                             }
@@ -1651,14 +1639,12 @@
                                     "Project": "Clarithromycin-Digoxin-DDI",
                                     "Simulation": "Kurata2002_Control_PO",
                                     "StartTime": 0,
-                                    "EndTime": "Inf",
                                     "TimeUnit": "h"
                                 },
                                 "SimulationDDI": {
                                     "Project": "Clarithromycin-Digoxin-DDI",
                                     "Simulation": "Kurata2002_Treatment_PO",
                                     "StartTime": 120,
-                                    "EndTime": "Inf",
                                     "TimeUnit": "h"
                                 }
                             },
@@ -1670,14 +1656,12 @@
                                     "Project": "Clarithromycin-Digoxin-DDI",
                                     "Simulation": "Kurata2002_Control_PO",
                                     "StartTime": 0,
-                                    "EndTime": "Inf",
                                     "TimeUnit": "h"
                                 },
                                 "SimulationDDI": {
                                     "Project": "Clarithromycin-Digoxin-DDI",
                                     "Simulation": "Kurata2002_Treatment_PO",
                                     "StartTime": 120,
-                                    "EndTime": "Inf",
                                     "TimeUnit": "h"
                                 }
                             },
@@ -1689,14 +1673,12 @@
                                     "Project": "Clarithromycin-Digoxin-DDI",
                                     "Simulation": "Kurata2002_Control_PO",
                                     "StartTime": 0,
-                                    "EndTime": "Inf",
                                     "TimeUnit": "h"
                                 },
                                 "SimulationDDI": {
                                     "Project": "Clarithromycin-Digoxin-DDI",
                                     "Simulation": "Kurata2002_Treatment_PO",
                                     "StartTime": 120,
-                                    "EndTime": "Inf",
                                     "TimeUnit": "h"
                                 }
                             }
@@ -1715,14 +1697,12 @@
                                     "Project": "Erythromycin-Digoxin-DDI",
                                     "Simulation": "Tsutsumi2002_ControlPhase",
                                     "StartTime": 0,
-                                    "EndTime": "Inf",
                                     "TimeUnit": "h"
                                 },
                                 "SimulationDDI": {
                                     "Project": "Erythromycin-Digoxin-DDI",
                                     "Simulation": "Tsutsumi2002_TreatmentPhase",
                                     "StartTime": 24,
-                                    "EndTime": "Inf",
                                     "TimeUnit": "h"
                                 }
                             }
@@ -1741,14 +1721,12 @@
                                     "Project": "Itraconazole-Digoxin-DDI",
                                     "Simulation": "Jalava1997_Control",
                                     "StartTime": 0,
-                                    "EndTime": "Inf",
                                     "TimeUnit": "h"
                                 },
                                 "SimulationDDI": {
                                     "Project": "Itraconazole-Digoxin-DDI",
                                     "Simulation": "Jalava1997_Treatment",
                                     "StartTime": 49,
-                                    "EndTime": "Inf",
                                     "TimeUnit": "h"
                                 }
                             },
@@ -1805,14 +1783,12 @@
                                     "Project": "Verapamil-Digoxin-DDI",
                                     "Simulation": "DDI_Verapamil-Digoxin 1 mg iv, Control, Johnson 1987, n=12",
                                     "StartTime": 288,
-                                    "EndTime": "Inf",
                                     "TimeUnit": "h"
                                 },
                                 "SimulationDDI": {
                                     "Project": "Verapamil-Digoxin-DDI",
                                     "Simulation": "DDI_Verapamil-Digoxin 1 mg iv, DDI, Johnson 1987, n=12",
                                     "StartTime": 288,
-                                    "EndTime": "Inf",
                                     "TimeUnit": "h"
                                 }
                             },
@@ -1824,14 +1800,12 @@
                                     "Project": "Verapamil-Digoxin-DDI",
                                     "Simulation": "DDI_Verapamil-Digoxin 1 mg iv, Control, Pedersen 1983, n=1",
                                     "StartTime": 168,
-                                    "EndTime": "Inf",
                                     "TimeUnit": "h"
                                 },
                                 "SimulationDDI": {
                                     "Project": "Verapamil-Digoxin-DDI",
                                     "Simulation": "DDI_Verapamil-Digoxin 1 mg iv, DDI, Pedersen 1983, n=1",
                                     "StartTime": 168,
-                                    "EndTime": "Inf",
                                     "TimeUnit": "h"
                                 }
                             },
@@ -1843,14 +1817,12 @@
                                     "Project": "Verapamil-Digoxin-DDI",
                                     "Simulation": "DDI_Verapamil-Digoxin 1 mg iv, Control, Pedersen 1981, n=7",
                                     "StartTime": 0.25,
-                                    "EndTime": "Inf",
                                     "TimeUnit": "h"
                                 },
                                 "SimulationDDI": {
                                     "Project": "Verapamil-Digoxin-DDI",
                                     "Simulation": "DDI_Verapamil-Digoxin 0.75 mg iv, DDI,  Pedersen 1981, n=7",
                                     "StartTime": 216.25,
-                                    "EndTime": "Inf",
                                     "TimeUnit": "h"
                                 }
                             }
@@ -1869,14 +1841,12 @@
                                     "Project": "Verapamil-Digoxin-DDI",
                                     "Simulation": "DDI_Verapamil-Digoxin 0.25 mg po SD (Cocktail), Control, Wiebe 2020, n=12",
                                     "StartTime": 1,
-                                    "EndTime": "Inf",
                                     "TimeUnit": "h"
                                 },
                                 "SimulationDDI": {
                                     "Project": "Verapamil-Digoxin-DDI",
                                     "Simulation": "DDI_Verapamil-Digoxin 0.25 mg po SD (Cocktail), DDI, Wiebe 2020, n=12",
                                     "StartTime": 1,
-                                    "EndTime": "Inf",
                                     "TimeUnit": "h"
                                 }
                             },
@@ -2149,14 +2119,12 @@
                                     "Project": "Rifampicin-Digoxin-DDI",
                                     "Simulation": "Wiebe2020_Control",
                                     "StartTime": 0,
-                                    "EndTime": "Inf",
                                     "TimeUnit": "h"
                                 },
                                 "SimulationDDI": {
                                     "Project": "Rifampicin-Digoxin-DDI",
                                     "Simulation": "Wiebe2020_Treatment",
                                     "StartTime": 0,
-                                    "EndTime": "Inf",
                                     "TimeUnit": "h"
                                 }
                             }
@@ -2255,12 +2223,12 @@
                 {
                     "Reference": "osp-introduction",
                     "Title": "Open Systems Pharmacology Suite (OSPS) Introduction",
-                     "Content": "https://raw.githubusercontent.com/Open-Systems-Pharmacology/Qualification-text-modules/v1.3/OSPS_Introduction.md"
+                    "Content": "https://raw.githubusercontent.com/Open-Systems-Pharmacology/Qualification-text-modules/v1.3/OSPS_Introduction.md"
                 },
                 {
                     "Reference": "mathematical-implementation-of-ddi",
                     "Title": "Mathematical Implementation of Drug-Drug Interactions",
-                     "Content": "https://raw.githubusercontent.com/Open-Systems-Pharmacology/Qualification-text-modules/v1.3/Mathematical_Implementation_of_DDI.md"
+                    "Content": "https://raw.githubusercontent.com/Open-Systems-Pharmacology/Qualification-text-modules/v1.3/Mathematical_Implementation_of_DDI.md"
                 },
                 {
                     "Reference": "automatic-requalification-workflow",
@@ -2273,6 +2241,6 @@
     "Intro": [
         {
             "Path": "Content/titlepage.md"
-          }
+        }
     ]
 }
