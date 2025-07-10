@@ -12,4 +12,4 @@ jobs:
   check-latest-releases:
     uses: Open-Systems-Pharmacology/Workflows/.github/workflows/QualificationPlan_ModelVersionCheck.yml@main
     with:
-      qualification-plan: 'Qualification/input/qualification_plan.json'
+      qualification_plan: 'Qualification/input/qualification_plan.json'
