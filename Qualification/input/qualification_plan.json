@@ -3,7 +3,7 @@
     "Projects": [
         {
             "Id": "Verapamil",
-            "Path": "https://raw.githubusercontent.com/Open-Systems-Pharmacology/Verapamil-Model/v2.0/Verapamil-Model.json"
+            "Path": "https://raw.githubusercontent.com/Open-Systems-Pharmacology/Verapamil-Model/v2.1/Verapamil-Model.json"
         },
         {
             "Id": "Digoxin",
@@ -11,19 +11,19 @@
         },
         {
             "Id": "Clarithromycin",
-            "Path": "https://raw.githubusercontent.com/Open-Systems-Pharmacology/Clarithromycin-Model/v1.2/Clarithromycin-Model.json"
+            "Path": "https://raw.githubusercontent.com/Open-Systems-Pharmacology/Clarithromycin-Model/v2.0/Clarithromycin-Model.json"
         },
         {
             "Id": "Erythromycin",
-            "Path": "https://raw.githubusercontent.com/Open-Systems-Pharmacology/Erythromycin-Model/v1.3/Erythromycin-Model.json"
+            "Path": "https://raw.githubusercontent.com/Open-Systems-Pharmacology/Erythromycin-Model/v2.0/Erythromycin-Model.json"
         },
         {
             "Id": "Itraconazole",
-            "Path": "https://raw.githubusercontent.com/Open-Systems-Pharmacology/Itraconazole-Model/v1.3/Itraconazole-Model.json"
+            "Path": "https://raw.githubusercontent.com/Open-Systems-Pharmacology/Itraconazole-Model/v2.0/Itraconazole-Model.json"
         },
         {
             "Id": "Rifampicin",
-            "Path": "https://raw.githubusercontent.com/Open-Systems-Pharmacology/Rifampicin-Model/v1.2/Rifampicin-Model.json"
+            "Path": "https://raw.githubusercontent.com/Open-Systems-Pharmacology/Rifampicin-Model/v2.0/Rifampicin-Model.json"
         },
         {
             "Id": "Clarithromycin-Digoxin-DDI",
@@ -184,7 +184,7 @@
     "ObservedDataSets": [
         {
             "Id": "DDI Ratios",
-            "Path": "https://raw.githubusercontent.com/Open-Systems-Pharmacology/Database-for-observed-data/v1.6/DDI.csv",
+            "Path": "https://raw.githubusercontent.com/Open-Systems-Pharmacology/Database-for-observed-data/v1.7/DDI.csv",
             "Type": "DDIRatio"
         }
     ],
