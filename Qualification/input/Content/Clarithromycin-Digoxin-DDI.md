@@ -1,4 +1,4 @@
-The release of the snapshot containing the respective simulations can be found here: <[https://github.com/Open-Systems-Pharmacology/Clarithromycin-Digoxin-DDI/releases/tag/v1.0](https://github.com/Open-Systems-Pharmacology/Clarithromycin-Digoxin-DDI/releases/tag/v1.0)>
+The release of the snapshot containing the respective simulations can be found here: [https://github.com/Open-Systems-Pharmacology/Clarithromycin-Digoxin-DDI/releases/tag/v1.0](https://github.com/Open-Systems-Pharmacology/Clarithromycin-Digoxin-DDI/releases/tag/v1.0)
 
 The Clarithromycin / digoxin interaction was evaluated using 6 clinical DDI studies including 21 different clinical settings ([Gurley 2006](#references), [Gurley 2007](#references), [Gurley 2008b](#references), [Kurata 2002](#references), [Rengelshausen 2003](#references), [Tsutsumi 2002](#references)).
 
