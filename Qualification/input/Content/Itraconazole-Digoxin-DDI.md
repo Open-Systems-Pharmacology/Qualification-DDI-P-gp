@@ -1,4 +1,4 @@
-The release of the snapshot containing the respective simulations can be found here: <[https://github.com/Open-Systems-Pharmacology/Itraconazole-Digoxin-DDI/releases/tag/v1.0](https://github.com/Open-Systems-Pharmacology/Itraconazole-Digoxin-DDI/releases/tag/v1.0)>
+The release of the snapshot containing the respective simulations can be found here: [https://github.com/Open-Systems-Pharmacology/Itraconazole-Digoxin-DDI/releases/tag/v1.0](https://github.com/Open-Systems-Pharmacology/Itraconazole-Digoxin-DDI/releases/tag/v1.0)
 
 The itraconazole-digoxin interaction was evaluated using 2 clinical DDI studies including 3 different clinical settings ([Jalava 1997](#references), [Partanen 1995](#references)).
 
