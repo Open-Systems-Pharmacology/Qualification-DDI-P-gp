@@ -120,7 +120,7 @@
         },
         {
             "Id": "Verapamil-Digoxin-DDI",
-            "Path": "https://raw.githubusercontent.com/Open-Systems-Pharmacology/Verapamil-Digoxin-DDI/v1.0/Verapamil-Digoxin-DDI.json",
+            "Path": "https://raw.githubusercontent.com/Open-Systems-Pharmacology/Verapamil-Digoxin-DDI/v1.1/Verapamil-Digoxin-DDI.json",
             "BuildingBlocks": [
                 {
                     "Type": "Compound",
