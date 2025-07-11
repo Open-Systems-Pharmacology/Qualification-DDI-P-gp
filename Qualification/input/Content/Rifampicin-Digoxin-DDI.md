@@ -1,4 +1,4 @@
-The release of the snapshot containing the respective simulations can be found here: <[https://github.com/Open-Systems-Pharmacology/Rifampicin-Digoxin-DDI/releases/tag/v1.0](https://github.com/Open-Systems-Pharmacology/Rifampicin-Digoxin-DDI/releases/tag/v1.0)>
+The release of the snapshot containing the respective simulations can be found here: [https://github.com/Open-Systems-Pharmacology/Rifampicin-Digoxin-DDI/releases/tag/v1.0](https://github.com/Open-Systems-Pharmacology/Rifampicin-Digoxin-DDI/releases/tag/v1.0)
 
 The rifampicin-digoxin interaction was evaluated using 9 clinical DDI studies including 11 different clinical settings ([Drescher 2003](#references), [Gurley 2006](#references), [Gurley 2007](#references), [Gurley 2008b](#references), [Greiner 1999](#references), [Kirby 2012](#references), [Larsen 2007](#references), [Reitmann 2011](#references), [Wiebe 2020](#references)).
 
