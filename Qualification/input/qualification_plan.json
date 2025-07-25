@@ -491,34 +491,16 @@
                         "Project": "Clarithromycin-Digoxin-DDI",
                         "Simulation": "Kurata2002_Control_IV",
                         "Output": "Organism|PeripheralVenousBlood|Digoxin|Plasma (Peripheral Venous Blood)",
-                        "ObservedData": "Kurata 2002 - G/G2677C/C3435_Digoxin day 1 - Digoxin - IV - 0.5 mg - serum - agg. (n=5)",
+                        "ObservedData": [
+                            "Kurata 2002 - G/G2677C/C3435_Digoxin day 1 - Digoxin - IV - 0.5 mg - serum - agg. (n=5)",
+                            "Kurata 2002 - G/T2677C/T3435_Digoxin day 1 - Digoxin - IV - 0.5 mg - serum - agg. (n=5)",
+                            "Kurata 2002 - T/T2677T/T3435_Digoxin day 1 - Digoxin - IV - 0.5 mg - serum - agg. (n=5)"
+                        ],
                         "StartTime": 0,
                         "TimeUnit": "h",
                         "Color": "#2166ac",
                         "Caption": "Control (without Clarithromycin)",
                         "Symbol": "Circle"
-                    },
-                    {
-                        "Project": "Clarithromycin-Digoxin-DDI",
-                        "Simulation": "Kurata2002_Control_IV",
-                        "Output": "Organism|PeripheralVenousBlood|Digoxin|Plasma (Peripheral Venous Blood)",
-                        "ObservedData": "Kurata 2002 - G/T2677C/T3435_Digoxin day 1 - Digoxin - IV - 0.5 mg - serum - agg. (n=5)",
-                        "StartTime": 0,
-                        "TimeUnit": "h",
-                        "Color": "#557dba",
-                        "Caption": "Control (without Clarithromycin)",
-                        "Symbol": "Triangle"
-                    },
-                    {
-                        "Project": "Clarithromycin-Digoxin-DDI",
-                        "Simulation": "Kurata2002_Control_IV",
-                        "Output": "Organism|PeripheralVenousBlood|Digoxin|Plasma (Peripheral Venous Blood)",
-                        "ObservedData": "Kurata 2002 - T/T2677T/T3435_Digoxin day 1 - Digoxin - IV - 0.5 mg - serum - agg. (n=5)",
-                        "StartTime": 0,
-                        "TimeUnit": "h",
-                        "Color": "#7a96c8",
-                        "Caption": "Control (without Clarithromycin)",
-                        "Symbol": "Diamond"
                     }
                 ]
             },
@@ -532,34 +514,16 @@
                         "Project": "Clarithromycin-Digoxin-DDI",
                         "Simulation": "Kurata2002_Control_PO",
                         "Output": "Organism|PeripheralVenousBlood|Digoxin|Plasma (Peripheral Venous Blood)",
-                        "ObservedData": "Kurata 2002 - T/T2677T/T3435_Digoxin day 1 - Digoxin - PO - 0.5 mg - serum - agg. (n=5)",
-                        "StartTime": 0,
-                        "TimeUnit": "h",
-                        "Color": "#7a96c8",
-                        "Caption": "Control (without Clarithromycin)",
-                        "Symbol": "Diamond"
-                    },
-                    {
-                        "Project": "Clarithromycin-Digoxin-DDI",
-                        "Simulation": "Kurata2002_Control_PO",
-                        "Output": "Organism|PeripheralVenousBlood|Digoxin|Plasma (Peripheral Venous Blood)",
-                        "ObservedData": "Kurata 2002 - G/T2677C/T3435_Digoxin day 1 - Digoxin - PO - 0.5 mg - serum - agg. (n=5)",
-                        "StartTime": 0,
-                        "TimeUnit": "h",
-                        "Color": "#557dba",
-                        "Caption": "Control (without Clarithromycin)",
-                        "Symbol": "Triangle"
-                    },
-                    {
-                        "Project": "Clarithromycin-Digoxin-DDI",
-                        "Simulation": "Kurata2002_Control_PO",
-                        "Output": "Organism|PeripheralVenousBlood|Digoxin|Plasma (Peripheral Venous Blood)",
-                        "ObservedData": "Kurata 2002 - G/G2677C/C3435_Digoxin day 1 - Digoxin - PO - 0.5 mg - Serum - agg. (n=5)",
+                        "ObservedData": [
+                            "Kurata 2002 - T/T2677T/T3435_Digoxin day 1 - Digoxin - PO - 0.5 mg - serum - agg. (n=5)",
+                            "Kurata 2002 - G/T2677C/T3435_Digoxin day 1 - Digoxin - PO - 0.5 mg - serum - agg. (n=5)",
+                            "Kurata 2002 - G/G2677C/C3435_Digoxin day 1 - Digoxin - PO - 0.5 mg - Serum - agg. (n=5)"
+                        ],
                         "StartTime": 0,
                         "TimeUnit": "h",
                         "Color": "#2166ac",
                         "Caption": "Control (without Clarithromycin)",
-                        "Symbol": "Circle"
+                        "Symbol": "Diamond"
                     }
                 ]
             },
@@ -573,34 +537,16 @@
                         "Project": "Clarithromycin-Digoxin-DDI",
                         "Simulation": "Kurata2002_Treatment_IV",
                         "Output": "Organism|PeripheralVenousBlood|Digoxin|Plasma (Peripheral Venous Blood)",
-                        "ObservedData": "Kurata 2002 - G/T2677C/T3435_Digoxin day 16 + Clarithromycin - Digoxin - IV - 0.25 mg - serum - agg. (n=5)",
-                        "StartTime": 120,
-                        "TimeUnit": "h",
-                        "Color": "#009900",
-                        "Caption": "Treatment (with Clarithromycin)",
-                        "Symbol": "Triangle"
-                    },
-                    {
-                        "Project": "Clarithromycin-Digoxin-DDI",
-                        "Simulation": "Kurata2002_Treatment_IV",
-                        "Output": "Organism|PeripheralVenousBlood|Digoxin|Plasma (Peripheral Venous Blood)",
-                        "ObservedData": "Kurata 2002 - G/G2677C/C3435_Digoxin day 16 + Clarithromycin - Digoxin - IV - 0.25 mg - serum - agg. (n=5)",
+                        "ObservedData": [
+                            "Kurata 2002 - G/T2677C/T3435_Digoxin day 16 + Clarithromycin - Digoxin - IV - 0.25 mg - serum - agg. (n=5)",
+                            "Kurata 2002 - G/G2677C/C3435_Digoxin day 16 + Clarithromycin - Digoxin - IV - 0.25 mg - serum - agg. (n=5)",
+                            "Kurata 2002 - T/T2677T/T3435_Digoxin day 16 + Clarithromycin - Digoxin - IV - 0.25 mg - serum - agg. (n=5)"
+                        ],
                         "StartTime": 120,
                         "TimeUnit": "h",
                         "Color": "#b2182b",
                         "Caption": "Treatment (with Clarithromycin)",
                         "Symbol": "Square"
-                    },
-                    {
-                        "Project": "Clarithromycin-Digoxin-DDI",
-                        "Simulation": "Kurata2002_Treatment_IV",
-                        "Output": "Organism|PeripheralVenousBlood|Digoxin|Plasma (Peripheral Venous Blood)",
-                        "ObservedData": "Kurata 2002 - T/T2677T/T3435_Digoxin day 16 + Clarithromycin - Digoxin - IV - 0.25 mg - serum - agg. (n=5)",
-                        "StartTime": 120,
-                        "TimeUnit": "h",
-                        "Color": "#000000",
-                        "Caption": "Treatment (with Clarithromycin)",
-                        "Symbol": "Diamond"
                     }
                 ]
             },
@@ -614,29 +560,11 @@
                         "Project": "Clarithromycin-Digoxin-DDI",
                         "Simulation": "Kurata2002_Treatment_PO",
                         "Output": "Organism|PeripheralVenousBlood|Digoxin|Plasma (Peripheral Venous Blood)",
-                        "ObservedData": "Kurata 2002 - T/T2677T/T3435_Digoxin day 16 + Clarithromycin - Digoxin - PO - 0.25 mg - serum - agg. (n=5)",
-                        "StartTime": 120,
-                        "TimeUnit": "h",
-                        "Color": "#000000",
-                        "Caption": "Treatment (with Clarithromycin)",
-                        "Symbol": "Diamond"
-                    },
-                    {
-                        "Project": "Clarithromycin-Digoxin-DDI",
-                        "Simulation": "Kurata2002_Treatment_PO",
-                        "Output": "Organism|PeripheralVenousBlood|Digoxin|Plasma (Peripheral Venous Blood)",
-                        "ObservedData": "Kurata 2002 - G/T2677C/T3435_Digoxin day 16 + Clarithromycin - Digoxin - PO - 0.25 mg - serum - agg. (n=5)",
-                        "StartTime": 120,
-                        "TimeUnit": "h",
-                        "Color": "#009900",
-                        "Caption": "Treatment (with Clarithromycin)",
-                        "Symbol": "Triangle"
-                    },
-                    {
-                        "Project": "Clarithromycin-Digoxin-DDI",
-                        "Simulation": "Kurata2002_Treatment_PO",
-                        "Output": "Organism|PeripheralVenousBlood|Digoxin|Plasma (Peripheral Venous Blood)",
-                        "ObservedData": "Kurata 2002 - G/G2677C/C3435_Digoxin day 16 + Clarithromycin - Digoxin - PO - 0.25 mg - serum - agg. (n=5)",
+                        "ObservedData": [
+                            "Kurata 2002 - T/T2677T/T3435_Digoxin day 16 + Clarithromycin - Digoxin - PO - 0.25 mg - serum - agg. (n=5)",
+                            "Kurata 2002 - G/T2677C/T3435_Digoxin day 16 + Clarithromycin - Digoxin - PO - 0.25 mg - serum - agg. (n=5)",
+                            "Kurata 2002 - G/G2677C/C3435_Digoxin day 16 + Clarithromycin - Digoxin - PO - 0.25 mg - serum - agg. (n=5)"
+                        ],
                         "StartTime": 120,
                         "TimeUnit": "h",
                         "Color": "#b2182b",
@@ -903,7 +831,10 @@
                         "Project": "Verapamil-Digoxin-DDI",
                         "Simulation": "DDI_Verapamil-Digoxin 0.125 mg po TID, Control, Belz 1983, n=12",
                         "Output": "Organism|PeripheralVenousBlood|Digoxin|Plasma (Peripheral Venous Blood)",
-                        "ObservedData": "Belz et al. 1983 - Digoxin control to 80mg Verapamil - Digoxin - PO - 0.125 mg - Plasma - agg. (n=12)",
+                        "ObservedData": [
+                            "Belz et al. 1983 - Digoxin control to 80mg Verapamil - Digoxin - PO - 0.125 mg - Plasma - agg. (n=12)",
+                            "Belz et al. 1983 - Digoxin control to 120mg Verapamil - Digoxin - PO - 0.125 mg - Plasma - agg. (n=12)"
+                        ],
                         "StartTime": 312,
                         "TimeUnit": "h",
                         "Color": "#2166ac",
@@ -918,19 +849,8 @@
                         "StartTime": 312,
                         "TimeUnit": "h",
                         "Color": "#b2182b",
-                        "Caption": "Digoxin + Verapamil",
+                        "Caption": "Digoxin + Verapamil (80mg)",
                         "Symbol": "Square"
-                    },
-                    {
-                        "Project": "Verapamil-Digoxin-DDI",
-                        "Simulation": "DDI_Verapamil-Digoxin 0.125 mg po TID, Control, Belz 1983, n=12",
-                        "Output": "Organism|PeripheralVenousBlood|Digoxin|Plasma (Peripheral Venous Blood)",
-                        "ObservedData": "Belz et al. 1983 - Digoxin control to 120mg Verapamil - Digoxin - PO - 0.125 mg - Plasma - agg. (n=12)",
-                        "StartTime": 312,
-                        "TimeUnit": "h",
-                        "Color": "#009900",
-                        "Caption": "Control (without verapamil)",
-                        "Symbol": "Circle"
                     },
                     {
                         "Project": "Verapamil-Digoxin-DDI",
@@ -940,7 +860,7 @@
                         "StartTime": 312,
                         "TimeUnit": "h",
                         "Color": "#000000",
-                        "Caption": "Digoxin + Verapamil",
+                        "Caption": "Digoxin + Verapamil (120mg)",
                         "Symbol": "Square"
                     }
                 ]
@@ -1070,7 +990,7 @@
                         "ObservedData": "Belz 1981 - Digoxin + Placebo - Digoxin - PO - 0.125 mg - Plasma - agg. (n=12)",
                         "StartTime": 328,
                         "TimeUnit": "h",
-                        "Color": "#b2182b",
+                        "Color": "#2166ac",
                         "Caption": "Control (without verapamil)",
                         "Symbol": "Square"
                     },
@@ -1313,7 +1233,7 @@
                         "ObservedData": "Kirby 2012 - Study 2 - Simultaneous Administration with RIF - Digoxin - PO - 0.5 mg - Plasma - agg. (n=9)",
                         "StartTime": 336,
                         "TimeUnit": "h",
-                        "Color": "#b2182b",
+                        "Color": "#32a852",
                         "Caption": "Digoxin + Rifampicin (Study 2: simultaneous)",
                         "Symbol": "Diamond"
                     }
