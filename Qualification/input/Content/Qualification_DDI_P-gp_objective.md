@@ -2,7 +2,7 @@ This **qualification report** evaluates for the PBPK platform **PK-Sim** (as par
 
 To demonstrate the level of confidence, the predictive performance of the platform for this indented purpose is assessed via a network of PBPK models of selected P-gp DDI perpetrators, and a respective sensitive P-gp victim drug (digoxin) and a comprehensive dataset from published clinical DDI studies. All PBPK models represent whole-body PBPK models, which allow dynamic DDI simulations in organs expressing P-gp. 
 
-The respective *qualification plan* to produce this *qualification report* is transparently provided open-source (https://github.com/Open-Systems-Pharmacology/Qualification-DDI-P-gp). The same applies for all presented PBPK models including *evaluation reports* on model building and evaluation of each model (https://github.com/Open-Systems-Pharmacology/OSP-PBPK-Model-Library).
+The respective *qualification plan* to produce this *qualification report* is transparently provided open-source ([https://github.com/Open-Systems-Pharmacology/Qualification-DDI-P-gp](https://github.com/Open-Systems-Pharmacology/Qualification-DDI-P-gp)). The same applies for all presented PBPK models including *evaluation reports* on model building and evaluation of each model (https://github.com/Open-Systems-Pharmacology/OSP-PBPK-Model-Library).
 
 *Evaluation reports* including descriptions on model building and detailed evaluations of the included models are documented separately (see [Section 1.2](#12-pgp-ddi-network)).
 

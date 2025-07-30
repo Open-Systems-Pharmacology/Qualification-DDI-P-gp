@@ -1,4 +1,4 @@
-﻿## Clarithromycin - Digoxin DDI
+## Clarithromycin - Digoxin DDI
 
 **Gurley 2006** Gurley BJ, Barone GW, Williams DK, Carrier J, Breen P, Yates CR, Song PF, Hubbard MA, Tong Y, Cheboyina S Effect of milk thistle (Silybum marianum) and black cohosh (Cimicifuga racemosa) supplementation on digoxin pharmacokinetics in humans. Drug Metab Dispos. 2006 Jan;34(1):69-74. doi: 10.1124/dmd.105.006312. Epub 2005   
 
