@@ -3,7 +3,7 @@
     "Projects": [
         {
             "Id": "Verapamil",
-            "Path": "https://raw.githubusercontent.com/Open-Systems-Pharmacology/Verapamil-Model/v2.1/Verapamil-Model.json"
+            "Path": "https://raw.githubusercontent.com/Open-Systems-Pharmacology/Verapamil-Model/v2.2/Verapamil-Model.json"
         },
         {
             "Id": "Digoxin",
