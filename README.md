@@ -8,7 +8,7 @@ The latest release of the qualification plan and the static content can be found
 To demonstrate the level of confidence, the predictive performance of the platform for this indented purpose is assessed via a network of PBPK models of selected index P-gp DDI perpetrators, and the sensitive index P-gp victim drug digoxin and a comprehensive dataset from published clinical DDI studies. All PBPK models represent whole-body PBPK models, which allow dynamic DDI simulations in organs expressing P-gp. 
 
 
-![DDI P-gp network](Qualification/Input/Content/images/DDI_P-gp_Compound_Network.png)
+![DDI P-gp network](Qualification/input/Content/images/DDI_P-gp_Compound_Network.png)
 
 
 
@@ -23,4 +23,4 @@ We encourage contribution to the Open Systems Pharmacology community. Before get
 The model code is distributed under the [GPLv2 License](https://github.com/Open-Systems-Pharmacology/Suite/blob/develop/LICENSE).
 
 ## References
-[1] **_tbd._**
+See [Qualification/input/Content/References.md](Qualification/input/Content/References.md)
